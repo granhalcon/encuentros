@@ -7,6 +7,25 @@
   {% if section.description %}
   <meta name="description" content="{{ section.description }}">
   {% endif %}
+  <link rel="canonical" href="{{ get_url(path='/', trailing_slash=true) }}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_MX">
+  <meta property="og:site_name" content="Gran Halcón">
+  <meta property="og:title" content="{{ section.title }}">
+  {% if section.description %}
+  <meta property="og:description" content="{{ section.description }}">
+  {% endif %}
+  <meta property="og:url" content="{{ get_url(path='/', trailing_slash=true) }}">
+  <meta property="og:image" content="{{ get_url(path='assets/social-share.png') }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ section.title }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ section.title }}">
+  {% if section.description %}
+  <meta name="twitter:description" content="{{ section.description }}">
+  {% endif %}
+  <meta name="twitter:image" content="{{ get_url(path='assets/social-share.png') }}">
   <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
 </head>
 <body>
