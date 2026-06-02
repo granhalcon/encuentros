@@ -66,3 +66,8 @@ Para cerrar nuestro encuentro, compartiremos las experiencias del día mientras 
 - Fruta fresca, semillas, frutos secos o algún alimento ligero y natural para compartir.
 - Agua para beber.
 - Y eso es todo.
+
+## Contacto
+
+Para más información puedes comunicarte conmigo por WhatsApp:
+[Gran Halcón (Čhetáŋ Tȟáŋka) · 55 2776 3256](https://wa.me/525527763256).

@@ -143,6 +143,16 @@ strong {
   color: $muted;
 }
 
+a {
+  color: #f2d697;
+  text-decoration-color: rgba(216, 167, 95, 0.72);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: #fff0c7;
+}
+
 ::selection {
   background: $accent-deep;
   color: $text;
