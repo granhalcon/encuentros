@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ section.title }}</title>
+  {% if section.description %}
+  <meta name="description" content="{{ section.description }}">
+  {% endif %}
+  <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="hero-content">
+      <div class="hero-top">
+        <svg
+          class="site-logo"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 208 208"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <circle cx="104" cy="104" r="96" />
+          <line x1="104" y1="8" x2="104" y2="200" />
+          <line x1="8" y1="104" x2="200" y2="104" />
+          <line x1="54" y1="64" x2="154" y2="64" />
+        </svg>
+        <p class="site-name">Círculo de Cultura Gnóstica y Medicinas Ancestrales</p>
+        <p class="event-date">
+          {{ section.extra.event_date_label }} · {{ section.extra.event_time }}
+        </p>
+      </div>
+      <img
+        class="hero-image"
+        src="{{ get_url(path='assets/header.png') }}"
+        alt=""
+        aria-hidden="true"
+      >
+      <h1>{{ section.title }}</h1>
+    </div>
+  </header>
+
+  <main>
+    {{ section.content | safe }}
+  </main>
+</body>
+</html>
