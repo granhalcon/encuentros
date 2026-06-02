@@ -16,7 +16,9 @@
   <meta property="og:description" content="{{ section.description }}">
   {% endif %}
   <meta property="og:url" content="{{ get_url(path='/', trailing_slash=true) }}">
-  <meta property="og:image" content="{{ get_url(path='assets/social-share.png') }}">
+  <meta property="og:image" content="{{ get_url(path='assets/social-share-v2.jpg') }}">
+  <meta property="og:image:secure_url" content="{{ get_url(path='assets/social-share-v2.jpg') }}">
+  <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="{{ section.title }}">
@@ -25,7 +27,7 @@
   {% if section.description %}
   <meta name="twitter:description" content="{{ section.description }}">
   {% endif %}
-  <meta name="twitter:image" content="{{ get_url(path='assets/social-share.png') }}">
+  <meta name="twitter:image" content="{{ get_url(path='assets/social-share-v2.jpg') }}">
   <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
 </head>
 <body>
