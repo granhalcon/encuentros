@@ -112,7 +112,8 @@ main {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   line-height: 1.2;
   color: $accent;
 }
@@ -132,6 +133,12 @@ h2 {
   padding-top: 24px;
   border-top: 1px solid $line;
   font-size: 1.45rem;
+}
+
+h3 {
+  margin: 30px 0 0.8rem;
+  color: #f2d697;
+  font-size: 1.2rem;
 }
 
 p {
