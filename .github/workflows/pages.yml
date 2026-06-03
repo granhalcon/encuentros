@@ -25,6 +25,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.22.1
+
+      - name: Build site
+        run: zola build
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:

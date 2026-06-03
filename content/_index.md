@@ -1,6 +1,6 @@
 +++
 title = "La Ceremonia de la Vida"
-description = "Invitación al encuentro del día 23 de Junio del año 2026 de la Planta Maestra Ayahuasca en el Bosque de Chapultepec."
+description = "Invitación a la reunión del día 23 de Junio del año 2026 de la Planta Maestra Ayahuasca en el Bosque de Chapultepec."
 template = "index.html"
 
 [extra]
@@ -18,9 +18,9 @@ Caminar con Ayahuasca es transitar por el sendero del autoconocimiento. Responde
 
 ¿Por qué nacimos? ¿Para qué vivimos? ¿Cuál es nuestra misión en la tierra? ¿Para qué venimos a este mundo? Son preguntas trascendentales que nuestra conciencia debe ser capaz de responderse a sí misma.
 
-El Abuelo Tabaco dice que Ayahuasca es la llave que abre el universo que hay dentro de nosotros. Por eso, en este encuentro vamos a estudiar aspectos fundamentales de nuestra naturaleza interior para dar respuesta a todas estas preguntas.
+El Abuelo Tabaco dice que Ayahuasca es la llave que abre el universo que hay dentro de nosotros. Por eso, en esta reunión vamos a estudiar aspectos fundamentales de nuestra naturaleza interior para dar respuesta a todas estas preguntas.
 
-Este primer encuentro tiene el nombre de "La Ceremonia de la Vida", ya que es en lo cotidiano donde verdaderamente podemos llegar al conocimiento de nosotros mismos. Es en la convivencia con nuestros semejantes, en la familia, en la escuela y en el trabajo donde podemos realizar una sincera labor de desarrollo y perfeccionamiento interior.
+Esta primera reunión tiene el nombre de "La Ceremonia de la Vida", ya que es en lo cotidiano donde verdaderamente podemos llegar al conocimiento de nosotros mismos. Es en la convivencia con nuestros semejantes, en la familia, en la escuela y en el trabajo donde podemos realizar una sincera labor de desarrollo y perfeccionamiento interior.
 
 ## El programa del día será el siguiente:
 
@@ -56,9 +56,9 @@ La Sagrada Medicina del Cacao nos ayudará a abrir nuestro corazón de tal forma
 
 ### Convivencia
 
-Para cerrar nuestro encuentro, compartiremos las experiencias del día mientras degustamos los alimentos que hayamos llevado.
+Para cerrar nuestra reunión, compartiremos las experiencias del día mientras degustamos los alimentos que hayamos llevado.
 
-## Qué llevar al encuentro
+## Qué llevar al lugar de la reunión:
 
 - Ropa cómoda.
 - Un tapete o una cobija para sentarnos durante el estudio y las meditaciones.
@@ -66,6 +66,42 @@ Para cerrar nuestro encuentro, compartiremos las experiencias del día mientras 
 - Fruta fresca, semillas, frutos secos o algún alimento ligero y natural para compartir.
 - Agua para beber.
 - Y eso es todo.
+
+## El lugar de reunión
+
+<div class="location-card">
+  <p>Bosque de Chapultepec.</p>
+  <p class="coordinates">Coordenadas: 19.41786, -99.18179</p>
+  <div class="map-links">
+    <a href="https://maps.app.goo.gl/P8P6oDzree6PEwFZ9" rel="external">Google Maps</a>
+    <a href="https://maps.apple.com/?ll=19.41786,-99.18179&q=Lugar%20de%20reuni%C3%B3n" rel="external">Apple Maps</a>
+  </div>
+</div>
+
+<div class="chapultepec-gallery">
+  <img src="assets/chapultepec/img_0099.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0101.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0104.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0105.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0106.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0108.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0124.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0126.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0127.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0130.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0133.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0136.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0137.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0140.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0148.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0152.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0154.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0156.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0157.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0161.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0162.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+  <img src="assets/chapultepec/img_0165.jpg" alt="Lugar de reunión en Chapultepec" loading="lazy" decoding="async">
+</div>
 
 ## Contacto
 
