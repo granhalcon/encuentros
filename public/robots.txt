@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://granhalcon.github.io/encuentros/sitemap.xml
+Sitemap: https://granhalcon.github.io/circulo-de-medicina/sitemap.xml
